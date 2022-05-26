@@ -1,0 +1,56 @@
+For each train:
+Train0:
+total number of passengers that entered the train :58
+total number of passengers that exited this train on a specific train station :56
+current number of passengers heading to  train station: 2
+
+Train1:
+total number of passengers that entered the train :40
+total number of passengers that exited this train on a specific train station :34
+current number of passengers heading to  train station: 6
+
+Train2:
+total number of passengers that entered the train :44
+total number of passengers that exited this train on a specific train station :44
+current number of passengers heading to  train station: 0
+
+Train3:
+total number of passengers that entered the train :43
+total number of passengers that exited this train on a specific train station :43
+current number of passengers heading to  train station: 0
+
+Train4:
+total number of passengers that entered the train :60
+total number of passengers that exited this train on a specific train station :56
+current number of passengers heading to  train station: 4
+
+For each TrainStation0: 
+total number of passengers that exited a train on the train station:131
+total number of passengers requesting a trains ride on the station: 35
+current number of passengers waiting for a train on the train station: 0
+train-1 currently heading towards the train station0 for passenger pickup
+
+For each TrainStation1: 
+total number of passengers that exited a train on the train station:2
+total number of passengers requesting a trains ride on the station: 11
+current number of passengers waiting for a train on the train station: 4
+train3 currently heading towards the train station1 for passenger pickup
+
+For each TrainStation2: 
+total number of passengers that exited a train on the train station:69
+total number of passengers requesting a trains ride on the station: 32
+current number of passengers waiting for a train on the train station: 7
+train1 currently heading towards the train station2 for passenger pickup
+
+For each TrainStation3: 
+total number of passengers that exited a train on the train station:9
+total number of passengers requesting a trains ride on the station: 20
+current number of passengers waiting for a train on the train station: 4
+train-1 currently heading towards the train station3 for passenger pickup
+
+For each TrainStation4: 
+total number of passengers that exited a train on the train station:22
+total number of passengers requesting a trains ride on the station: 166
+current number of passengers waiting for a train on the train station: 4
+train-1 currently heading towards the train station4 for passenger pickup
+
